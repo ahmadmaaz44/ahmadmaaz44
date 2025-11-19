@@ -1,11 +1,17 @@
 # Hi, I'm Maaz Ahmad 👋
 
-## 🔰 Professional Badges
+## 🔰 Professional Badges  
+Below is a clean grid-style section using simple Markdown spacing:
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Chemistry](https://img.shields.io/badge/Chemistry-008080)
-![Environmental Chemistry](https://img.shields.io/badge/Environmental%20Chemistry-4CAF50)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chemistry-008080" />
+  <img src="https://img.shields.io/badge/Environmental%20Chemistry-4CAF50" />
+  <img src="https://img.shields.io/badge/Analytical%20Chemistry-795548" />
+  <img src="https://img.shields.io/badge/Scientific%20Writing-006699" />
+</p>
+
 
 **Analytical & Environmental Chemist | Researcher | Data & Materials Science Enthusiast**
 
