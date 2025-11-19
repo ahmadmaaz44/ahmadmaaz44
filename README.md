@@ -1,6 +1,7 @@
 # Hi, I'm Maaz Ahmad 👋
 
 ## 🔰 Professional Badges  
+
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Chemistry-008080" />
