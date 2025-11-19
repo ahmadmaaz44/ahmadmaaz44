@@ -1,5 +1,12 @@
 # Hi, I'm Maaz Ahmad 👋
 
+## 🔰 Professional Badges
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Chemistry](https://img.shields.io/badge/Chemistry-008080)
+![Environmental Chemistry](https://img.shields.io/badge/Environmental%20Chemistry-4CAF50)
+
 **Analytical & Environmental Chemist | Researcher | Data & Materials Science Enthusiast**
 
 Passionate about understanding chemical systems through data-driven approaches, sustainable practices, and advanced analytical techniques.
