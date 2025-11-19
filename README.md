@@ -1,53 +1,110 @@
 # Hi, I'm Maaz Ahmad 👋
 
-**Chemistry Graduate | Researcher in Analytical & Environmental Chemistry**  
-Passionate about **sustainability, materials science, data analysis, and scientific exploration**.
+**Analytical & Environmental Chemist | Researcher | Data & Materials Science Enthusiast**
+
+Passionate about understanding chemical systems through data-driven approaches, sustainable practices, and advanced analytical techniques.
 
 ---
 
 ## 🔬 About Me
-- 🎓 BSc (Hons) Chemistry — Analytical & Environmental focus
-- 🧪 Experience in water quality analysis, environmental monitoring, and materials characterization
-- 📊 Currently learning **Python for scientific data analysis** (NumPy, Pandas, Matplotlib)
-- 🌍 Interested in sustainability-driven research and advanced materials
-- ✈️ Preparing for **IELTS** and applying for **international MS scholarships**
-- 💡 Love turning scientific questions into clear, data‑driven answers
+I'm a chemistry graduate from **Abdul Wali Khan University Mardan (AWKUM)** with a strong CGPA of **3.79/4.0** and a research-focused academic journey. My work blends **analytical chemistry**, **environmental monitoring**, **nanomaterials**, and **green chemistry**, supported by hands-on experience with instrumental analysis and scientific data interpretation.
+
+I enjoy exploring how chemistry, materials, and sustainability intersect — especially when combined with modern data analysis tools.
 
 ---
 
-## 🚀 Skills
-**Chemistry & Research**
-- Analytical Chemistry · Environmental Chemistry · Green Chemistry
-- Spectroscopy · Water Quality Analysis · Lab Reporting
+## 🎓 Education
+**BS Chemistry (Analytical Chemistry Specialization)**  
+Abdul Wali Khan University Mardan  
+CGPA: **3.79/4.0**
 
-**Tools & Programming**
-- Python (Pandas, NumPy, Matplotlib)
-- Git & GitHub
-- Jupyter Notebook
+Key subjects:
+- Organic, Inorganic, Physical & Analytical Chemistry
+- Environmental Chemistry, Spectroscopy, Biochemistry
+- Statistics, Functional Math, Economics, English & communication
 
-**Soft Skills**
-- Scientific writing · Problem solving · Academic communication · Research planning
+---
+
+## 🧪 Research & Laboratory Experience
+### **1. Water Quality Analysis (Feb–May 2025)**
+- Collected environmental water samples
+- Conducted physicochemical analysis (pH, EC, TDS, ions, etc.)
+- Interpreted contamination patterns using statistical tools
+
+### **2. Green Chemistry Biodegradable Polymer Research (Aug 2024–May 2025)**
+- Synthesized eco-friendly polymeric materials
+- Used sustainable solvents and green processing
+- Performed structural & chemical characterization
+
+### **3. Cosmetic Skin Serum Development (Nov 2024–May 2025)**
+- Extracted biogenic hydroxyapatite & gelatin
+- Formulated a hydration-focused cosmetic serum
+- Evaluated functionality and material properties
+- **Submitted as thesis / listed on ORCID**
+
+---
+
+## 🔭 Research Interests
+- Analytical Chemistry • Spectroscopy • Nanomaterials
+- Water Treatment & Purification
+- Sustainable & Green Materials
+- Environmental Monitoring
+- Biorefinery & Renewable Chemicals
+- Drug Development & Applied Industrial Chemistry
+
+---
+
+## 🧰 Instrumentation & Technical Skills
+- **FTIR, AAS, UV-Vis, HPLC, Cyclic Voltammetry, Thermal Analysis**
+- Physicochemical water testing & sample preparation
+- Data analysis with **Python (NumPy, Pandas, Matplotlib)**
+- Scientific writing & research documentation
+
+---
+
+## 📘 Certifications (Selected)
+Completed from global institutions including:
+- UC Davis — Chemical Hazards & Process Safety
+- IBM — Data Analysis & Generative AI
+- UC San Diego — Drug Development
+- ASU — Battery Technology & Materials
+- KAIST — Chemical Engineering Thermodynamics
+- The University of Manchester — Spectroscopy
+- Novartis — Drug Hunting
+- Dartmouth — Environmental Science
+- Google — Cybersecurity
+- P&G — Cosmetic Science
+- Vanderbilt — AI Leadership
+
+Expanding knowledge in **materials, sustainability, data science, biotechnology, product development, and AI in chemistry**.
 
 ---
 
 ## 📂 Featured Projects
 ### 🧭 Environmental Data Analysis
-Analysis of water or air quality datasets using Python. Visualizations, trends, and interpretation.
+Python-based analysis and visualization of water-quality datasets.
 
-### 🔬 Materials Science Notes & Mini‑Projects
-Short notebooks exploring material properties, kinetics, and chemical modeling.
+### 🔬 Biodegradable Polymer Study (Green Chemistry)
+Research notes, structure analysis, and sustainability insights.
 
-### 📈 Spectroscopy Data Processing
-Cleaning and analyzing UV‑Vis or IR datasets, peak identification, and plotting.
+### 🧴 Cosmetic Serum Material Evaluation
+Data, plots, and characterization summaries.
 
-> More projects coming soon!
+More detailed repositories coming soon.
 
 ---
 
-## 📘 What I'm Currently Working On
-- Strengthening my Python + data analysis workflow
-- Building a portfolio of chemistry + data projects
-- Preparing a competitive profile for MS scholarships abroad
+## 💻 Tools & Technologies
+- Python • Jupyter Notebook
+- Git & GitHub
+- Scientific reporting & documentation
+
+---
+
+## 🌍 ORCID
+**ID:** 0009-0004-0534-7350
+
+Interests: Analytical Chemistry, Nanomaterials, Environmental Chemistry, Green Chemistry, Water Treatment, Spectroscopy.
 
 ---
 
@@ -57,4 +114,4 @@ Cleaning and analyzing UV‑Vis or IR datasets, peak identification, and plottin
 
 ---
 
-⭐ *If you find something interesting, feel free to reach out or collaborate!*
+⭐ *If you're working in analytical chemistry, environmental science, materials research, or sustainability — I'd love to connect or collaborate!*
